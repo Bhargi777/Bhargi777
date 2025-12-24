@@ -44,3 +44,21 @@
 * ⚡ **Random Access Fact:** I track my keyboard usage to identify repetitive actions that can be automated.
 
 ---
+
+<div align="center">
+
+  <h2>📈 SYSTEM METRICS // CONTRIBUTION LOG</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=2AFF00&icon_color=00CC66&text_color=FFFFFF" alt="Bhargava Sri sai's GitHub Stats" />
+
+  <br>
+
+  <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR-USERNAME&theme=dark&ring=2AFF00&fire=00CC66" alt="GitHub Streak" />
+  
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&title_color=2AFF00&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
