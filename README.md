@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=html,css" />
   
   <h4>Backend & Languages</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql" />
   
   <h4>DevOps & Cloud</h4>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
