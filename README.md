@@ -1,13 +1,12 @@
 <div align="center">
   
-  <h1 style="color: #2AFF00;">
-    Greetings, I am Bhargava Sri sai
-  </h1>
-  <h3 style="color: #00CC66;">
-    Architect of Digital Realms // Cybernetically Enhanced Dev
-  </h3>
-
-  <p>A nexus of code and creativity, forging solutions for tomorrow.</p>
+  <h2 style="color: #2AFF00; font-weight: 700;">
+    GREETINGS, I AM BHARGAVA SRI SAI
+  </h2>
+  
+  <p style="color: #00CC66; font-size: 1.1em;">
+    I love creating solutions to my own problems. I will find any solution that makes my work easier.
+  </p>
 
   <br>
 
@@ -57,16 +56,16 @@
 
   <h2>📊 GitHub Stats & Activity</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="YOUR-USERNAME's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargi777&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Bhargi777's GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR-USERNAME&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Bhargi777&theme=dark" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargi777&layout=compact&theme=dark" alt="Top Languages" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://github.com/Bhargi777E/Bhargi777/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
