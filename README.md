@@ -56,11 +56,11 @@
 
   <h2>📈 System Metrics // Contribution Log</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=2AFF00&icon_color=00CC66" alt="Bhargava Sri sai's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargi777&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=2AFF00&icon_color=00CC66" alt="Bhargava Sri sai's GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR-USERNAME&theme=dark&ring=2AFF00&fire=00CC66" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Bhargi777&theme=dark&ring=2AFF00&fire=00CC66" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&title_color=2AFF00&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargi777&layout=compact&theme=dark&title_color=2AFF00&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
 
