@@ -35,13 +35,13 @@
 
 <div align="center">
   <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
   
   <h4>Backend & Languages</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,go,rust,typescript,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,java,mysql" />
   
   <h4>DevOps & Cloud</h4>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode,jenkins" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </div>
 
 ---
