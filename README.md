@@ -1,9 +1,12 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2AFF00&center=true&vCenter=true&width=450&lines=Greetings,+I+am+YOUR-USERNAME;Cybernetically+Enhanced+Developer;Architect+of+Digital+Realms;A+Nexus+of+Code+and+Creativity" alt="Typing SVG - Futuristic Greeting" />
+  <h1 style="color: #2AFF00;">
+    Greetings, I am Bhargava Sri sai
+  </h1>
+  <h3 style="color: #00CC66;">
+    Architect of Digital Realms // Cybernetically Enhanced Dev
+  </h3>
 
-  <br>
-  
   <p>A nexus of code and creativity, forging solutions for tomorrow.</p>
 
   <br>
@@ -25,7 +28,7 @@
 
 ---
 
-## 💾 Bio // System Log
+## 💾 Bio // System Log (About Section)
 
 * 🔭 **Current Directive:** Orchestrating a decentralized data mesh using **Rust** and **Unreal Engine** integration.
 * 🌱 **Learning Protocol:** Deep diving into **Quantum Computing algorithms** and exploring advanced **Neural Network** architectures.
