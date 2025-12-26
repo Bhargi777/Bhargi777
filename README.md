@@ -47,11 +47,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasudevkishor&show_icons=true&theme=react" alt="vasudevkishor" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargi777&show_icons=true&theme=react" alt="Bhargi777" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudevkishor&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargi777&theme=react" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasudevkishor&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargi777&theme=react-dark&hide_border=true" />
 </p>
