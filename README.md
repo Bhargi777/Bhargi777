@@ -26,7 +26,7 @@
     <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
       <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
-    <a href="mailto:YOUR-EMAIL@example.com" target="_blank">
+    <a href="mailto:bhargi07@icloud.com" target="_blank">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
