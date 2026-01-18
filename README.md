@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1 style="color: #2AFF00; font-weight: 900; letter-spacing: 2px;">
-        Bhargava Sri Sai
+        Bhargava Sri Sai M. K.
   </h1>
   
   <p style="color: #00CC66; font-size: 1.15em; max-width: 600px;">
