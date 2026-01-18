@@ -50,7 +50,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bhargi777&show_icons=true&theme=react" alt="Bhargi777" />
 </p>
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargi777&layout=compact&theme=aura_dark)
+![Top Langs]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargi777&layout=compact&theme=aura_dark" alt="Bhargi777" />
+
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargi777&theme=react-dark&hide_border=true" />
