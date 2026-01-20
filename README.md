@@ -1,11 +1,10 @@
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=4000&pause=1000&color=2AFF00&center=true&vCenter=true&width=700&lines=Bhargava+Sri+Sai+M.+K.;Architect+of+Utility;Crafting+Solutions..." alt="Minecraft Header" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/c046ab63-5bc6-40cd-ba58-96728d727983" alt="Bhargava Sri Sai M. K." width="80%" />
 </div>
 
 <div align="center">
-  <p style="font-family: monospace; color: #CCCCCC;">
+  <p style="font-family: monospace; color: #CCCCCC; font-size: 14px;">
     [ SYSTEM STATUS: ONLINE ] &nbsp; [ WORLD: CREATIVE MODE ]
   </p>
 </div>
