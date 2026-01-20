@@ -1,9 +1,7 @@
 
-<h1 align = "center"> Hi I'm </h1>
-
-
 
 <div align="center">
+  <h1 style="font-size: 20px;">Hi I'm </h1>
   <img src="https://github.com/user-attachments/assets/ac838b7e-42c0-4ed2-a365-5c5fce4aa7fe" alt="Bhargava Sri Sai M. K." width="80%" />
 </div>
 
