@@ -1,13 +1,12 @@
+<div align = "center"> 
+<h1>Hi I'm </h1>
+</div>
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ac838b7e-42c0-4ed2-a365-5c5fce4aa7fe" alt="Bhargava Sri Sai M. K." width="80%" />
 </div>
 
-<div align="center">
-  <p style="font-family: monospace; color: #CCCCCC; font-size: 14px;">
-    [ SYSTEM STATUS: ONLINE ] &nbsp; [ WORLD: CREATIVE MODE ]
-  </p>
-</div>
 
 <br>
 
