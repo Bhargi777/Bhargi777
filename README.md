@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c046ab63-5bc6-40cd-ba58-96728d727983" alt="Bhargava Sri Sai M. K." width="80%" />
+  <img src="https://github.com/user-attachments/assets/ac838b7e-42c0-4ed2-a365-5c5fce4aa7fe" alt="Bhargava Sri Sai M. K." width="80%" />
 </div>
 
 <div align="center">
