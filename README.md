@@ -78,6 +78,8 @@
   </a>
   
   <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargi777&theme=dark&hide_border=true&ring=2AFF00&fire=2AFF00&currStreakLabel=2AFF00" alt="streak stats" />
+ <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasudevkishor&theme=react-dark&hide_border=true" />
+</p>
 </div>
+
