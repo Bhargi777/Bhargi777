@@ -6,7 +6,7 @@
 
 
 <br>
-
+<!-- 
 <div align="center">
   <p style="font-size: 1.1em; max-width: 600px;">
     <b>Architect of Utility.</b> My core focus is creating elegant solutions to my own problems. I am driven to find any mechanism or tool that <span style="color: #2AFF00;">optimizes and simplifies</span> my workflow.
@@ -51,7 +51,7 @@
   </table>
 </div>
 
-<br>
+<br> -->
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank">
