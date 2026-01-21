@@ -6,14 +6,7 @@
 
 
 <br>
-<!-- 
-<div align="center">
-  <p style="font-size: 1.1em; max-width: 600px;">
-    <b>Architect of Utility.</b> My core focus is creating elegant solutions to my own problems. I am driven to find any mechanism or tool that <span style="color: #2AFF00;">optimizes and simplifies</span> my workflow.
-  </p>
-</div>
 
-<br>
 
 <div align="center">
   <p>
@@ -24,34 +17,6 @@
 </div>
 
 <br>
-
-<h3 align="center">🟩 BIO // SYSTEM LOG ⬛</h3>
-<div align="center">
-  <table align="center" style="border: none;">
-    <tr>
-      <td valign="top" width="50%">
-        <b>🛠️ Current Directive</b><br>
-        <span style="color: #888;">Building internal tooling and scripts to automate recurring development and deployment tasks.</span>
-      </td>
-      <td valign="top" width="50%">
-        <b>🧠 Learning Protocol</b><br>
-        <span style="color: #888;">Exploring low-code/no-code platforms and advanced scripting (Bash/Python) for maximum efficiency gains.</span>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <b>🤝 Collaboration Matrix</b><br>
-        <span style="color: #888;">Interested in projects that focus on clean architecture and performance optimization.</span>
-      </td>
-      <td valign="top">
-        <b>⚡ Random Access Fact</b><br>
-        <span style="color: #888;">I track my keyboard usage to identify repetitive actions that can be automated.</span>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br> -->
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank">
