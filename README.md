@@ -1,6 +1,5 @@
 
 <div align="center">
-  <h1 style="font-size: 20px;">Hi I'm </h1>
 <img src="https://i.imgur.com/eZ9HfrU.png" border="0" width="80%">
 </div>
 
@@ -17,6 +16,17 @@
   <a href="mailto:bhargi07@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
+</div>
+
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+
+  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <hr style="border-color: #333;">
