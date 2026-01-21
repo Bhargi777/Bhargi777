@@ -7,17 +7,6 @@
 
 <br>
 
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/FOCUS-Workflow%20Automation-2AFF00?style=for-the-badge&logo=githubactions&logoColor=black" />
-    <img src="https://img.shields.io/badge/DRIVE-Problem%20Solving-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/GOAL-Efficiency%20Optimization-F7DF1E?style=for-the-badge&logo=powerautomate&logoColor=black" />
-  </p>
-</div>
-
-<br>
-
 <div align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
