@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 style="font-size: 20px;">Hi I'm </h1>
-  <img src="https://github.com/user-attachments/assets/f06cc71e-7009-4aa1-b3ba-60a1814d4bc4" alt="Bhargava Sri Sai M. K." width="80%" />
+<img src="https://i.imgur.com/eZ9HfrU.png" border="0" width="80%">
 </div>
 
 
