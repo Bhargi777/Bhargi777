@@ -138,7 +138,7 @@
   <br><br>
 
   <a href="https://github.com/Bhargi777">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargi777&theme=redical&hide_border=true&area=true" alt="activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargi777&theme=radical&hide_border=true&area=true" alt="activity graph" />
   </a>
 </div>
 
