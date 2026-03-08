@@ -91,6 +91,20 @@
       <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td><strong>NLP & AI Services:</strong></td>
+    <td><strong>Cloud AI:</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      <img alt="Rasa" src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" />
+    </td>
+    <td>
+      <img alt="AWS Bedrock" src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+    </td>
+  </tr>
 </tbody>
 </p>
 </table></div>
@@ -100,7 +114,7 @@
 ---
 
 <div align="center">
-  <h3>📊 Performance Metrics</h3>
+  <h3>Performance Metrics</h3>
   <br>
   <a href="https://github.com/Bhargi777">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhargi777&show_icons=true&theme=dark&hide_border=true&title_color=2AFF00&icon_color=2AFF00&text_color=999" height="170" alt="stats graph" />
