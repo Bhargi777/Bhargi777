@@ -7,19 +7,25 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  <a href="https://linkedin.com/in/bhargava-sri-sai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
-  </a>
+  &nbsp;
   <a href="mailto:bhargi07@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://bhargi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Bhargi777" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
 </div>
 
 ---
-<b> Tech Stack</b>
+# Tech Stack
 <br>
 
 <div align="center"><table border="0">
@@ -68,8 +74,7 @@
 <br>
 
 ---
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Data Science & ML Stack</b>
+# Data Science & ML Stack
 <br>
 
 <div align="center"><table border="0">
@@ -114,18 +119,26 @@
 ---
 
 <div align="center">
-  <h3>Performance Metrics</h3>
+  <h3>📊 Performance Metrics</h3>
   <br>
   <a href="https://github.com/Bhargi777">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhargi777&show_icons=true&theme=dark&hide_border=true&title_color=2AFF00&icon_color=2AFF00&text_color=999" height="170" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Bhargi777&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
   </a>
+  &nbsp;
   <a href="https://github.com/Bhargi777">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargi777&layout=compact&theme=dark&hide_border=true&title_color=2AFF00&text_color=999" height="170" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargi777&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph" />
   </a>
-  
+
   <br><br>
- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargi777&theme=react-dark&hide_border=true" />
-</p>
+
+  <a href="https://github.com/Bhargi777">
+    <img src="https://streak-stats.demolab.com?user=Bhargi777&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/Bhargi777">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargi777&theme=redical&hide_border=true&area=true" alt="activity graph" />
+  </a>
 </div>
 
