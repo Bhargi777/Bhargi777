@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/bhargava-sri-sai" target="_blank">
+  <a href="https://linkedin.com/in/bhargava7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   &nbsp;
@@ -119,20 +119,20 @@
 ---
 
 <div align="center">
-  <h3>📊 Performance Metrics</h3>
+  <h3>Performance Metrics</h3>
   <br>
   <a href="https://github.com/Bhargi777">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bhargi777&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhargi777&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
   </a>
   &nbsp;
   <a href="https://github.com/Bhargi777">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargi777&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhargi777&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph" />
   </a>
 
   <br><br>
 
   <a href="https://github.com/Bhargi777">
-    <img src="https://streak-stats.demolab.com?user=Bhargi777&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Bhargi777&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 
   <br><br>
