@@ -20,18 +20,27 @@
 
 ---
 
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+<br>
 
-  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+<div align="center"><table border="0">
+<p align="center">
+<tbody>
+  <tr>
+    <td><strong>Programming Languages:</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,java,cpp,c,rust,ts,js" />
+    </td>
+  </tr>
+</tbody>
+</p>
+</table></div>
 
-<hr style="border-color: #333;">
+<br>
+
+---
 
 <div align="center">
   <h3>📊 Performance Metrics</h3>
