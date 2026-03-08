@@ -38,6 +38,18 @@
       <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
     </td>
   </tr>
+  <tr>
+    <td><strong>Backend:</strong></td>
+    <td><strong>Databases:</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,dynamodb" />
+    </td>
+  </tr>
 </tbody>
 </p>
 </table></div>
@@ -47,7 +59,7 @@
 ---
 
 <div align="center">
-  <h3>📊 Performance Metrics</h3>
+  <h3> Performance Metrics</h3>
   <br>
   <a href="https://github.com/Bhargi777">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhargi777&show_icons=true&theme=dark&hide_border=true&title_color=2AFF00&icon_color=2AFF00&text_color=999" height="170" alt="stats graph" />
