@@ -28,10 +28,14 @@
 <tbody>
   <tr>
     <td><strong>Programming Languages:</strong></td>
+    <td><strong>Frontend:</strong></td>
   </tr>
   <tr>
     <td>
       <img src="https://skillicons.dev/icons?i=py,java,cpp,c,rust,ts,js" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
     </td>
   </tr>
 </tbody>
