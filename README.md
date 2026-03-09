@@ -8,15 +8,15 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/bhargava7" target="_blank">
-    <img src="https://img.shields.io/badge/-%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat&logo=linkedin&logoColor=0A66C2" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:bhargi07@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/-%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/Mail-1a1b27?style=flat&logo=gmail&logoColor=EA4335" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://bhargi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-%20Portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=flat&logo=safari&logoColor=white" />
   </a>
 </div>
 
@@ -114,7 +114,7 @@
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhargi777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="170" alt="stats graph" />
@@ -135,7 +135,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
   <picture>
