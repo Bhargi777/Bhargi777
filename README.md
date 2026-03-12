@@ -8,15 +8,15 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/bhargava7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:bhargi07@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-1a1b27?style=flat&logo=apple&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://bhargi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=flat&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
