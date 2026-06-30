@@ -3,6 +3,10 @@
 <img src="https://i.imgur.com/eZ9HfrU.png" border="0" width="80%">
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Systems+%26+AI+Builder;Rust+%7C+TypeScript+%7C+Python;Building+tools+that+actually+ship" alt="Typing SVG" />
+</div>
+
 
 <br>
 
