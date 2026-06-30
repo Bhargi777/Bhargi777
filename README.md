@@ -176,15 +176,42 @@
     <td>
       <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
       <img alt="Rasa" src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" />
+      <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
     </td>
     <td>
       <img alt="AWS Bedrock" src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
       <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+      <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
     </td>
   </tr>
 </tbody>
 </p>
 </table></div>
+
+<br>
+
+---
+
+# Featured Projects
+
+<br>
+
+<div align="center">
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [AI Resume Analyser](https://github.com/Bhargi777/AI-Resume-Analyser) | ATS-bypass resume scoring with job description matching, bullet rewriting, and version comparison | `Next.js` `TypeScript` `Gemini AI` |
+| [ai-document-rag-chat](https://github.com/Bhargi777/ai-document-rag-chat) | Production-ready PDF Chat SaaS with semantic search over documents | `Next.js` `FastAPI` `LangChain` `Pinecone` `PostgreSQL` |
+| [smart-handwriting-recognition-platform](https://github.com/Bhargi777/smart-handwriting-recognition-platform) | Real-time MNIST digit recognition via drawing canvas with CNN backend | `Python` `FastAPI` `Next.js` `CNN` |
+| [Digital Doppelganger](https://github.com/Bhargi777/Digital-Doppelganger) | Ethical behavioral AI that learns communication style and generates style-aligned drafts | `FastAPI` `Next.js` `Stylometry` |
+| [Lumina](https://github.com/Bhargi777/Lumina) | High-performance cloud-native API Gateway & Reverse Proxy | `Rust` `Tokio` `Axum` `Hyper` |
+| [Real-Time Behavioral Intelligence](https://github.com/Bhargi777/Real-Time-Behavioral-Intelligence-System-RBIS-) | Multi-person posture, gesture & attention detection from live video streams | `Python` `OpenCV` `MediaPipe` |
+| [DocAI Transformer Services](https://github.com/Bhargi777/docai-transformer-services) | Containerized microservices for document summarization and QA | `FastAPI` `HuggingFace` `Docker` |
+| [INIT Logistics](https://github.com/Bhargi777/INIT_Logistics) | QR code-based real-time attendance system with cloud sync | `Next.js` `TypeScript` `Supabase` |
+| [Color Fill](https://github.com/Bhargi777/Color-Fill) | Competitive Java game vs AI using BFS flood-fill and Minimax with alpha-beta pruning | `Java` `Swing` `Minimax` |
+| [Class Attendance System](https://github.com/Bhargi777/Class-Attendance-System) | Interactive seating-chart attendance tracker — no dependencies | `HTML` `CSS` `JavaScript` |
+
+</div>
 
 <br>
 
