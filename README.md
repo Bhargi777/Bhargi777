@@ -194,6 +194,17 @@
       <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td><strong>Computer Vision:</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+    </td>
+    <td></td>
+  </tr>
 </tbody>
 </p>
 </table></div>
