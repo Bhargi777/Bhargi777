@@ -196,6 +196,24 @@
 
 ---
 
+# Currently Building
+
+<br>
+
+<div align="center">
+
+| Repo | What it is |
+|------|-----------|
+| [Ai-Council](https://github.com/Bhargi777/Ai-Council) | Python library that orchestrates multiple AI models to solve complex problems collaboratively — installable via `pip install ai-council-orchestrator` |
+| [ai-document-rag-chat](https://github.com/Bhargi777/ai-document-rag-chat) | Production RAG SaaS — semantic PDF search with LangChain, Pinecone vector store, and Next.js chat UI |
+| [smart-handwriting-recognition-platform](https://github.com/Bhargi777/smart-handwriting-recognition-platform) | CNN-powered MNIST digit recognition with a live drawing canvas and analytics dashboard |
+
+</div>
+
+<br>
+
+---
+
 # Featured Projects
 
 <br>
