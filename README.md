@@ -26,9 +26,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhargi777&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
 ---
 # Tech Stack
