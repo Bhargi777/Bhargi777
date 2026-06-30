@@ -210,7 +210,6 @@
 
 | Repo | What it is |
 |------|-----------|
-| [Ai-Council](https://github.com/Bhargi777/Ai-Council) | Python library that orchestrates multiple AI models to solve complex problems collaboratively — installable via `pip install ai-council-orchestrator` |
 | [ai-document-rag-chat](https://github.com/Bhargi777/ai-document-rag-chat) | Production RAG SaaS — semantic PDF search with LangChain, Pinecone vector store, and Next.js chat UI |
 | [smart-handwriting-recognition-platform](https://github.com/Bhargi777/smart-handwriting-recognition-platform) | CNN-powered MNIST digit recognition with a live drawing canvas and analytics dashboard |
 
@@ -228,16 +227,13 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [AI Resume Analyser](https://github.com/Bhargi777/AI-Resume-Analyser) | ATS-bypass resume scoring with job description matching, bullet rewriting, and version comparison | `Next.js` `TypeScript` `Gemini AI` |
 | [ai-document-rag-chat](https://github.com/Bhargi777/ai-document-rag-chat) | Production-ready PDF Chat SaaS with semantic search over documents | `Next.js` `FastAPI` `LangChain` `Pinecone` `PostgreSQL` |
 | [smart-handwriting-recognition-platform](https://github.com/Bhargi777/smart-handwriting-recognition-platform) | Real-time MNIST digit recognition via drawing canvas with CNN backend | `Python` `FastAPI` `Next.js` `CNN` |
 | [Digital Doppelganger](https://github.com/Bhargi777/Digital-Doppelganger) | Ethical behavioral AI that learns communication style and generates style-aligned drafts | `FastAPI` `Next.js` `Stylometry` |
 | [Lumina](https://github.com/Bhargi777/Lumina) | High-performance cloud-native API Gateway & Reverse Proxy | `Rust` `Tokio` `Axum` `Hyper` |
 | [Real-Time Behavioral Intelligence](https://github.com/Bhargi777/Real-Time-Behavioral-Intelligence-System-RBIS-) | Multi-person posture, gesture & attention detection from live video streams | `Python` `OpenCV` `MediaPipe` |
 | [DocAI Transformer Services](https://github.com/Bhargi777/docai-transformer-services) | Containerized microservices for document summarization and QA | `FastAPI` `HuggingFace` `Docker` |
-| [INIT Logistics](https://github.com/Bhargi777/INIT_Logistics) | QR code-based real-time attendance system with cloud sync | `Next.js` `TypeScript` `Supabase` |
-| [Color Fill](https://github.com/Bhargi777/Color-Fill) | Competitive Java game vs AI using BFS flood-fill and Minimax with alpha-beta pruning | `Java` `Swing` `Minimax` |
-| [Class Attendance System](https://github.com/Bhargi777/Class-Attendance-System) | Interactive seating-chart attendance tracker — no dependencies | `HTML` `CSS` `JavaScript` |
+| [pocket-nas](https://github.com/Bhargi777/pocket-nas) | Modern NAS dashboard for tablet-based FTP server — upload, download, folder management | `React` `TypeScript` |
 
 </div>
 
