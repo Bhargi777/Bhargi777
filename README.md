@@ -210,23 +210,6 @@
 
 ---
 
-# Currently Building
-
-<br>
-
-<div align="center">
-
-| Repo | What it is |
-|------|-----------|
-| [ai-document-rag-chat](https://github.com/Bhargi777/ai-document-rag-chat) | Production RAG SaaS — semantic PDF search with LangChain, Pinecone vector store, and Next.js chat UI |
-| [smart-handwriting-recognition-platform](https://github.com/Bhargi777/smart-handwriting-recognition-platform) | CNN-powered MNIST digit recognition with a live drawing canvas and analytics dashboard |
-
-</div>
-
-<br>
-
----
-
 # Featured Projects
 
 <br>
