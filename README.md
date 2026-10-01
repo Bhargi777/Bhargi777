@@ -199,6 +199,8 @@
     <td>
       <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
       <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+      <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+      <img alt="ROS 2" src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
     </td>
     <td></td>
   </tr>
@@ -218,13 +220,16 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [AegisPay](https://github.com/Bhargi777/Aegispay) | Compliance-gated payment rail for AI agents — MCP server with server-side policy, approval & audit (live) | `TypeScript` `MCP` `NitroStack` |
+| [recoup](https://github.com/Bhargi777/recoup) | AI revenue recovery engine for Razorpay — diagnoses failed payments, policy-gated actions, holdout-measured uplift | `Python` `Razorpay` `LLM` |
+| [CRWD](https://github.com/Bhargi777/CRWD) | Marketplace for paid communities — discovery, payments and membership layer | `Next.js` `Prisma` `Supabase` `Stripe` |
 | [ai-document-rag-chat](https://github.com/Bhargi777/ai-document-rag-chat) | Production-ready PDF Chat SaaS with semantic search over documents | `Next.js` `FastAPI` `LangChain` `Pinecone` `PostgreSQL` |
-| [smart-handwriting-recognition-platform](https://github.com/Bhargi777/smart-handwriting-recognition-platform) | Real-time MNIST digit recognition via drawing canvas with CNN backend | `Python` `FastAPI` `Next.js` `CNN` |
+| [vehicle-headlamp-glare-detection](https://github.com/Bhargi777/vehicle-headlamp-glare-detection) | YOLOv8-Nano headlamp detection: Apple Silicon training + ROS 2 Gazebo inference node | `Python` `YOLOv8` `ROS 2` |
+| [Real-Time Behavioral Intelligence](https://github.com/Bhargi777/Real-Time-Behavioral-Intelligence-System-RBIS-) | Multi-person posture, gesture & attention detection from live video streams | `Python` `OpenCV` `MediaPipe` |
 | [Digital Doppelganger](https://github.com/Bhargi777/Digital-Doppelganger) | Ethical behavioral AI that learns communication style and generates style-aligned drafts | `FastAPI` `Next.js` `Stylometry` |
 | [Lumina](https://github.com/Bhargi777/Lumina) | High-performance cloud-native API Gateway & Reverse Proxy | `Rust` `Tokio` `Axum` `Hyper` |
-| [Real-Time Behavioral Intelligence](https://github.com/Bhargi777/Real-Time-Behavioral-Intelligence-System-RBIS-) | Multi-person posture, gesture & attention detection from live video streams | `Python` `OpenCV` `MediaPipe` |
-| [DocAI Transformer Services](https://github.com/Bhargi777/docai-transformer-services) | Containerized microservices for document summarization and QA | `FastAPI` `HuggingFace` `Docker` |
-| [pocket-nas](https://github.com/Bhargi777/pocket-nas) | Modern NAS dashboard for tablet-based FTP server — upload, download, folder management | `React` `TypeScript` |
+| [LabEvalEngine](https://github.com/Bhargi777/LabEvalEngine) | VS Code extension + local server for automated lab code evaluation with hidden rubrics | `TypeScript` `Node.js` `VS Code` |
+| [smart-handwriting-recognition-platform](https://github.com/Bhargi777/smart-handwriting-recognition-platform) | Real-time MNIST digit recognition via drawing canvas with CNN backend | `Python` `FastAPI` `Next.js` `CNN` |
 
 </div>
 
@@ -235,21 +240,17 @@
 # GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhargi777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhargi777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargi777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargi777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" height="170" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Bhargi777&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Bhargi777&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargi777&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
