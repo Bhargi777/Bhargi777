@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.imgur.com/eZ9HfrU.png" border="0" width="80%">
+<img src="https://i.imgur.com/eZ9HfrU.png" width="80%" alt="Bhargava Sri Sai banner" />
 </div>
 
 <div align="center">
@@ -26,6 +26,16 @@
 
 <br>
 
+---
+# About Me
+<br>
+
+- **AI agents & payments**: compliance-gated payment rails for agents ([AegisPay](https://github.com/Bhargi777/Aegispay)) and revenue recovery on Razorpay ([recoup](https://github.com/Bhargi777/recoup))
+- **Systems**: high-performance networking in Rust ([Lumina](https://github.com/Bhargi777/Lumina), Tokio + Axum + Hyper)
+- **Computer vision & robotics**: real-time detection with YOLOv8, OpenCV and MediaPipe, deployed as ROS 2 nodes
+- **Developer tooling**: VS Code extensions and evaluation engines ([LabEvalEngine](https://github.com/Bhargi777/LabEvalEngine))
+
+<br>
 
 ---
 # Tech Stack
