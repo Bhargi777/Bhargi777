@@ -32,7 +32,7 @@ jobs:
           fail_on_error: "true"
 
       - name: Push to stats branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: stats
           build_dir: dist
