@@ -11,6 +11,10 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/Bhargi777" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/bhargava7" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
