@@ -261,3 +261,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bhargi777/Bhargi777/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer" width="100%" alt="footer" />
+</div>
