@@ -240,8 +240,8 @@
 # GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhargi777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargi777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" height="170" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/Bhargi777/Bhargi777/stats/stats.svg" height="170" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Bhargi777/Bhargi777/stats/top-langs.svg" height="170" alt="Top languages" />
 </div>
 
 <br>
